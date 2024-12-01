@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Gyumri\WebApplication1\WebApplication1\obj\Debug\net8.0\Gyumri.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gyumri\WebApplication1\WebApplication1\obj\Debug\net8.0\Gyumri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gyumri\WebApplication1\WebApplication1\obj\Debug\net8.0\Gyumri.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gyumri\WebApplication1\WebApplication1\obj\Debug\net8.0\Gyumri.AssemblyInfo.cs
+C:\Users\user\Desktop\Gyumri\WebApplication1\WebApplication1\obj\Debug\net8.0\Gyumri.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gyumri\WebApplication1\WebApplication1\obj\Debug\net8.0\Gyumri.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Gyumri\WebApplication1\WebApplication1\obj\Debug\net8.0\Gyumri.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Gyumri\WebApplication1\WebApplication1\obj\Debug\net8.0\Gyumri.RazorAssemblyInfo.cs

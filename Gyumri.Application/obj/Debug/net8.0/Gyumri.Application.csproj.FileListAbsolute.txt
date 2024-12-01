@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\bin\Debug\net8.0\Gyumri.Application.deps.json
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\bin\Debug\net8.0\Gyumri.Application.dll
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\bin\Debug\net8.0\Gyumri.Application.pdb
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\bin\Debug\net8.0\Gyumri.Common.dll
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\bin\Debug\net8.0\Gyumri.Data.dll
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\bin\Debug\net8.0\Gyumri.Common.pdb
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\bin\Debug\net8.0\Gyumri.Data.pdb
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\obj\Debug\net8.0\Gyumri.A.630EFB2C.Up2Date
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.dll
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\obj\Debug\net8.0\refint\Gyumri.Application.dll
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.pdb
+C:\Users\user\Desktop\Gyumri\WebApplication1\Gyumri.Application\obj\Debug\net8.0\ref\Gyumri.Application.dll
