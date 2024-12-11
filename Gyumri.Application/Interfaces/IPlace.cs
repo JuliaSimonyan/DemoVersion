@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Gyumri.Common.ViewModel.Subcategory;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,8 @@ namespace Gyumri.Application.Interfaces
 {
     internal interface IPlace
     {
+        //public void AddPlace(AddPlaceViewModel placemodel);
+        //public Task<bool> RemovePlace()
+
     }
 }

@@ -1,14 +1,15 @@
 ﻿using Gyumri.Common.ViewModel.Subcategory;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Gyumri.Application.Interfaces
 {
     public interface ISubcategory
     {
-        public Task<bool> AddSubcategory(AddSubcategoryViewModel model);
+        Task<bool> AddSubcategory(AddSubcategoryViewModel model);
+        Task<bool> EditSubcategory(EditSubcategoryViewModel model);
+        Task<bool> DeleteSubcategory(int subcategoryId);
+        Task<List<SubcategoryViewModel>> GetAllSubcategories();
+        Task<SubcategoryViewModel> GetSubcategoryById(int subcategoryId);
     }
 }

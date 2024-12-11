@@ -1,6 +1,7 @@
 ﻿using Gyumri.Application.Interfaces;
 using Gyumri.Common.ViewModel.Category;
 using Gyumri.Data.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,6 +41,62 @@ namespace Gyumri.Application.Services
                 }
             ).ToList();
             return categories;
+        }
+        public async Task<Category> GetCategoryById(int id)
+        {
+            return await _context.Categories.FindAsync(id);
+        }
+
+        public async Task<bool> Edit(EditCategoryViewModel model)
+        {
+            try
+            {
+                var category = await _context.Categories.FindAsync(model.CategoryId);
+                if (category == null)
+                {
+                    return false;
+                }
+
+                category.Name = model.Name;
+
+                _context.Entry(category).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+
+                int rowsAffected = await _context.SaveChangesAsync();
+                if (rowsAffected > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+        }
+
+
+        public async Task<bool> Delete(int id)
+        {
+            var category = await _context.Categories.FindAsync(id);
+            if (category == null) return false;
+
+            _context.Categories.Remove(category);
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
+        public async Task<List<CategoryListViewModel>> GetAllCategories()
+        {
+            return await _context.Categories
+                            .Select(c => new CategoryListViewModel
+                            {
+                                CategoryId = c.CategoryId,
+                                Name = c.Name
+                            })
+                            .ToListAsync();
         }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj": {}
+    "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj": {
+    "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj",
         "projectName": "Gyumri.Data",
-        "projectPath": "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\obj\\",
+        "projectPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj",
+        "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Computer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -81,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

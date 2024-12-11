@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gyumri.props" />
+</Project>

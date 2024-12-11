@@ -8,6 +8,8 @@ namespace Gyumri.Common.ViewModel.Category
 {
     public class AddCategoryViewModel
     {
+        public int CategoryId { get; set; }
         public string Name { get; set; }
+
     }
 }

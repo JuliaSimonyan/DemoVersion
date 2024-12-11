@@ -19,6 +19,7 @@ namespace Gyumri.Application.Services
             _context = context;
         }
 
+
         public async Task<bool> AddSubcategory(AddSubcategoryViewModel model)
         {
             if(model == null) return false;
@@ -32,17 +33,62 @@ namespace Gyumri.Application.Services
             return true;
         }
 
-        public async Task<bool> DeleteSubcategory(EditSubcategoryViewModel subcategory)//or subcategoryId
+        public async Task<bool> DeleteSubcategory(int id)
         {
-            var entity = await _context.Subcategories
-                .FirstOrDefaultAsync(p => p.SubcategoryId == subcategory.SubcategoryId);
-            if (entity is null)
-            {
-                return false;
-            }
+            var entity = await _context.Subcategories.FirstOrDefaultAsync(s => s.SubcategoryId == id);
+            if (entity == null) return false;
+
             _context.Subcategories.Remove(entity);
-            _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
             return true;
+
         }
+ 
+    public async Task<bool> EditSubcategory(EditSubcategoryViewModel model)
+    {
+        if (model == null) return false;
+
+        var subcategory = await _context.Subcategories.FindAsync(model.SubcategoryId);
+        if (subcategory == null) return false;
+
+        subcategory.Name = model.Name;
+        subcategory.CategoryId = model.CategoryId;
+
+        _context.Subcategories.Update(subcategory);
+        await _context.SaveChangesAsync();
+        return true;
+    }
+
+    public async Task<List<SubcategoryViewModel>> GetAllSubcategories()
+    {
+        return await _context.Subcategories
+            .Include(s => s.Category) 
+            .Select(s => new SubcategoryViewModel
+            {
+                SubcategoryId = s.SubcategoryId,
+                Name = s.Name,
+                CategoryId = s.CategoryId,
+                CategoryName = s.Category.Name 
+            })
+            .ToListAsync();
+    }
+
+    public async Task<SubcategoryViewModel> GetSubcategoryById(int subcategoryId)
+    {
+        var subcategory = await _context.Subcategories
+            .Include(s => s.Category)
+            .FirstOrDefaultAsync(s => s.SubcategoryId == subcategoryId);
+
+        if (subcategory == null) return null;
+
+        return new SubcategoryViewModel
+        {
+            SubcategoryId = subcategory.SubcategoryId,
+            Name = subcategory.Name,
+            CategoryId = subcategory.CategoryId,
+            CategoryName = subcategory.Category.Name
+        };
     }
 }
+}
+

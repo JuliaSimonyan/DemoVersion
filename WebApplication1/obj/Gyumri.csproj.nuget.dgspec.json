@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Gyumi_Project\\WebApplication1\\Gyumri.csproj": {}
+    "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\WebApplication1\\Gyumri.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj": {
+    "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Application\\Gyumri.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj",
-        "projectName": "Gyumri.Data",
-        "projectPath": "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\obj\\",
+        "projectUniqueName": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Application\\Gyumri.Application.csproj",
+        "projectName": "Gyumri.Application",
+        "projectPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Application\\Gyumri.Application.csproj",
+        "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Computer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,68 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj": {
+                "projectPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj"
+              },
+              "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj": {
+                "projectPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj",
+        "projectName": "Gyumri.Common",
+        "projectPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj",
+        "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Computer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +96,61 @@
           "warnAsError": [
             "NU1605"
           ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj",
+        "projectName": "Gyumri.Data",
+        "projectPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj",
+        "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Computer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {
@@ -81,21 +192,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Gyumi_Project\\WebApplication1\\Gyumri.csproj": {
+    "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\WebApplication1\\Gyumri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Gyumi_Project\\WebApplication1\\Gyumri.csproj",
+        "projectUniqueName": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\WebApplication1\\Gyumri.csproj",
         "projectName": "Gyumri",
-        "projectPath": "C:\\Users\\user\\Desktop\\Gyumi_Project\\WebApplication1\\Gyumri.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Gyumi_Project\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\WebApplication1\\Gyumri.csproj",
+        "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Computer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,15 +214,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj"
+              "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Application\\Gyumri.Application.csproj": {
+                "projectPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Application\\Gyumri.Application.csproj"
+              },
+              "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj": {
+                "projectPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj"
+              },
+              "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj": {
+                "projectPath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj"
               }
             }
           }
@@ -120,11 +236,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -148,6 +259,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
@@ -169,7 +284,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

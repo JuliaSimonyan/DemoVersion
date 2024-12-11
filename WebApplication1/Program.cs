@@ -1,3 +1,5 @@
+using Gyumri.Application.Interfaces;
+using Gyumri.Application.Services;
 using Gyumri.Data.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,6 +10,9 @@ builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServe
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<ICategory, CategoryService>();
+builder.Services.AddScoped<ISubcategory, SubcategoryService>();
+
 
 var app = builder.Build();
 
@@ -25,6 +30,19 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllerRoute(
+        name: "admin_default",
+        pattern: "admin",
+        defaults: new { area = "Admin", controller = "Dashboard", action = "Index" });
+
+    endpoints.MapControllerRoute(
+        name: "areas",
+        pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
+});
+
 
 app.MapControllerRoute(
     name: "default",
