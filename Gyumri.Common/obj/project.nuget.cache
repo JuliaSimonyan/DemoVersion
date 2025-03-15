@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "V/ujhFvvqt1+MrvR555K1/kpN0KHBRwOMGoMlD/qXXX0LLtRlzLlk/arJ0wSG0OpOOtrLZuQEUf8Z1Abs1n8Ng==",
+  "dgSpecHash": "2CSxENUI7k2RgyHZqBImEe7QnV5i0g4f1NX2yjSG5oCB+REdbwQ6UbWs6SLojs3/3bgfNHu3N6TJXHNjkZm7UQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Computer\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

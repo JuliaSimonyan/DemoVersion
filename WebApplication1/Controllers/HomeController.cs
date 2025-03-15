@@ -14,7 +14,16 @@ namespace Gyumri.Controllers
 
         public IActionResult Index()
         {
-            return View(); 
+            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Content/index.html");
+
+            if (System.IO.File.Exists(filePath))
+            {
+                return PhysicalFile(filePath, "text/html");
+            }
+            else
+            {
+                return NotFound(); // If the file does not exist
+            }
         }
 
         public IActionResult Privacy()

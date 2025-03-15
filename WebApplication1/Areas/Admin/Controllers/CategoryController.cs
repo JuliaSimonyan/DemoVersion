@@ -3,7 +3,7 @@ using Gyumri.Common.ViewModel.Category;
 using Gyumri.Data.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Threading.Tasks;
+using System.Linq;
 
 namespace Gyumri.Areas.Admin.Controllers
 {
@@ -18,12 +18,11 @@ namespace Gyumri.Areas.Admin.Controllers
         {
             _categoryService = categoryService;
             _context = context;
-
         }
 
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-            var categories = await _categoryService.CategoryList();
+            var categories = _categoryService.CategoryList().Result;
             return View(categories);
         }
 
@@ -33,11 +32,11 @@ namespace Gyumri.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Add(AddCategoryViewModel category)
+        public IActionResult Add(AddCategoryViewModel category)
         {
             if (ModelState.IsValid)
             {
-                bool success = await _categoryService.Add(category);
+                bool success = _categoryService.Add(category).Result;
                 if (success)
                 {
                     return RedirectToAction(nameof(Index));
@@ -47,12 +46,12 @@ namespace Gyumri.Areas.Admin.Controllers
             return View(category);
         }
 
-        public async Task<IActionResult> Edit(int id)
+        public IActionResult Edit(int id)
         {
-            var category = await _context.Categories.FindAsync(id);
+            var category = _context.Categories.Find(id);
             if (category == null)
             {
-                return NotFound(); 
+                return NotFound();
             }
 
             var model = new EditCategoryViewModel
@@ -65,34 +64,34 @@ namespace Gyumri.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(EditCategoryViewModel model)
+        public IActionResult Edit(EditCategoryViewModel model)
         {
             if (!ModelState.IsValid)
             {
-                return View(model); 
+                return View(model);
             }
 
             if (model.CategoryId == 0)
             {
-                return NotFound(); 
+                return NotFound();
             }
 
-            var category = await _context.Categories.FindAsync(model.CategoryId);
+            var category = _context.Categories.Find(model.CategoryId);
             if (category == null)
             {
-                return NotFound(); 
+                return NotFound();
             }
 
             category.Name = model.Name;
             _context.Entry(category).State = EntityState.Modified;
-            await _context.SaveChangesAsync();
+            _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
 
         [HttpPost]
-        public async Task<IActionResult> Delete(int id)
+        public IActionResult Delete(int id)
         {
-            bool success = await _categoryService.Delete(id);
+            bool success = _categoryService.Delete(id).Result;
             if (success)
             {
                 return RedirectToAction(nameof(Index));

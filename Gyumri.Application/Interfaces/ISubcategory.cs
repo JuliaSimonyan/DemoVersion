@@ -9,7 +9,7 @@ namespace Gyumri.Application.Interfaces
         Task<bool> AddSubcategory(AddSubcategoryViewModel model);
         Task<bool> EditSubcategory(EditSubcategoryViewModel model);
         Task<bool> DeleteSubcategory(int subcategoryId);
-        Task<List<SubcategoryViewModel>> GetAllSubcategories();
+        List<SubcategoryViewModel> GetAllSubcategories();
         Task<SubcategoryViewModel> GetSubcategoryById(int subcategoryId);
     }
 }

@@ -12,6 +12,7 @@ builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServe
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<ICategory, CategoryService>();
 builder.Services.AddScoped<ISubcategory, SubcategoryService>();
+builder.Services.AddScoped<IPlace, PlaceService>(); 
 
 
 var app = builder.Build();

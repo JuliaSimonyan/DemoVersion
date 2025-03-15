@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gaRGY34x/xRHh6Jf/yUmVm8wcXSDdCAefsEDI17Dc3ALmo9ZeQLYdJZkfT7VNQjEaJTF7vOOz7qx6xkWXrgyEg==",
+  "dgSpecHash": "OGo+NvE/yi/lMSAnBWi6YMvWDliFhFDmCjt6nC7iCqWA7587PbvBlJ9N7rfJrSjPqGyb3yY00Pe0GAhSHSgXCw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Gyumi_Project\\WebApplication1\\Gyumri.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,7 @@
     "C:\\Users\\Computer\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\Computer\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\Computer\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\Computer\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\Computer\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.24\\microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "C:\\Users\\Computer\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\Computer\\.nuget\\packages\\microsoft.build\\17.8.3\\microsoft.build.17.8.3.nupkg.sha512",

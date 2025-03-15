@@ -1,16 +1,14 @@
-﻿using Gyumri.Common.ViewModel.Subcategory;
-using System;
+﻿using Gyumri.Common.ViewModel.Place;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Gyumri.Application.Interfaces
 {
-    internal interface IPlace
+    public interface IPlace
     {
-        //public void AddPlace(AddPlaceViewModel placemodel);
-        //public Task<bool> RemovePlace()
-
+        IEnumerable<PlacesViewModel> GetAllPlaces();
+        PlacesViewModel GetPlaceById(int id);
+        bool AddPlace(AddEditPlaceViewModel model);
+        bool EditPlace(AddEditPlaceViewModel model);
+        bool DeletePlace(int id);
     }
 }

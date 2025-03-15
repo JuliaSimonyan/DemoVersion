@@ -16,42 +16,42 @@ namespace Gyumri.Areas.Admin.Controllers
             _categoryService = categoryService;
         }
 
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-            var subcategories = await _subcategoryService.GetAllSubcategories();
+            var subcategories = _subcategoryService.GetAllSubcategories();
             return View(subcategories);
         }
 
-        public async Task<IActionResult> Add()
+        public IActionResult Add()
         {
-            ViewBag.Categories = await _categoryService.GetAllCategories();
+            ViewBag.Categories = _categoryService.GetAllCategories().Result;
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> Add(AddSubcategoryViewModel model)
+        public IActionResult Add(AddSubcategoryViewModel model)
         {
             if (!ModelState.IsValid)
             {
-                ViewBag.Categories = await _categoryService.GetAllCategories();
+                ViewBag.Categories = _categoryService.GetAllCategories().Result;
                 return View(model);
             }
 
-            var result = await _subcategoryService.AddSubcategory(model);
+            var result = _subcategoryService.AddSubcategory(model).Result;
             if (result)
             {
                 return RedirectToAction("Index");
             }
 
             ModelState.AddModelError("", "Failed to add subcategory.");
-            ViewBag.Categories = await _categoryService.GetAllCategories();
+            ViewBag.Categories = _categoryService.GetAllCategories().Result;
             return View(model);
         }
 
         [HttpGet]
-        public async Task<IActionResult> Edit(int id)
+        public IActionResult Edit(int id)
         {
-            var subcategory = await _subcategoryService.GetSubcategoryById(id);
+            var subcategory = _subcategoryService.GetSubcategoryById(id).Result;
 
             if (subcategory == null)
             {
@@ -65,35 +65,35 @@ namespace Gyumri.Areas.Admin.Controllers
                 CategoryId = subcategory.CategoryId
             };
 
-            ViewBag.Categories = await _categoryService.GetAllCategories();
+            ViewBag.Categories = _categoryService.GetAllCategories().Result;
 
             return View(model);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(EditSubcategoryViewModel model)
+        public IActionResult Edit(EditSubcategoryViewModel model)
         {
             if (!ModelState.IsValid)
             {
-                ViewBag.Categories = await _categoryService.GetAllCategories();
+                ViewBag.Categories = _categoryService.GetAllCategories().Result;
                 return View(model);
             }
 
-            var result = await _subcategoryService.EditSubcategory(model);
+            var result = _subcategoryService.EditSubcategory(model).Result;
             if (result)
             {
                 return RedirectToAction("Index");
             }
 
             ModelState.AddModelError("", "Failed to edit subcategory.");
-            ViewBag.Categories = await _categoryService.GetAllCategories();
+            ViewBag.Categories = _categoryService.GetAllCategories().Result;
             return View(model);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Delete(int id)
+        public IActionResult Delete(int id)
         {
-            bool success = await _subcategoryService.DeleteSubcategory(id);
+            bool success = _subcategoryService.DeleteSubcategory(id).Result;
             if (success)
             {
                 return RedirectToAction(nameof(Index));
