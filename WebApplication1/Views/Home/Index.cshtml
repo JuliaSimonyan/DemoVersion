@@ -1,8 +1,38 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
+    var currentCulture = Context.Request.Cookies["UserCulture"] ?? "en";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<form asp-action="ChangeLanguage" method="POST">
+    <select name="lang" onchange="this.form.submit()">
+        @if (currentCulture == "en")
+        {
+            <option value="en" selected>English</option>
+        }
+        else
+        {
+            <option value="en">English</option>
+        }
+        @if(currentCulture == "hy-AM")
+        {
+            <option value="hy-AM" selected>Հայերեն</option>
+        }
+        else
+        {
+            <option value="hy-AM">Հայերեն</option>
+        }
+        @if(currentCulture == "ru-RU")
+        {
+            <option value="ru-RU" selected>Русский</option>
+        }
+        else
+        {
+            <option value="ru-RU">Русский</option>
+        }
+        
+    </select>
+</form>
+
+<h1>
+    @AppRes.Welcome
+</h1>

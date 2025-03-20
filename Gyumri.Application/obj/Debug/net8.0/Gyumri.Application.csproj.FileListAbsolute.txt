@@ -33,3 +33,20 @@ C:\Users\Computer\Desktop\ADmin panel\Gyumi_Project\Gyumri.Application\obj\Debug
 C:\Users\Computer\Desktop\ADmin panel\Gyumi_Project\Gyumri.Application\obj\Debug\net8.0\refint\Gyumri.Application.dll
 C:\Users\Computer\Desktop\ADmin panel\Gyumi_Project\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.pdb
 C:\Users\Computer\Desktop\ADmin panel\Gyumi_Project\Gyumri.Application\obj\Debug\net8.0\ref\Gyumri.Application.dll
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\bin\Debug\net8.0\Gyumri.Application.deps.json
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\bin\Debug\net8.0\Gyumri.Application.dll
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\bin\Debug\net8.0\Gyumri.Application.pdb
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\bin\Debug\net8.0\Gyumri.Common.dll
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\bin\Debug\net8.0\Gyumri.Data.dll
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\bin\Debug\net8.0\Gyumri.Common.pdb
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\bin\Debug\net8.0\Gyumri.Data.pdb
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.csproj.AssemblyReference.cache
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.AssemblyInfoInputs.cache
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.AssemblyInfo.cs
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.csproj.CoreCompileInputs.cache
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\obj\Debug\net8.0\Gyumri.A.630EFB2C.Up2Date
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.dll
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\obj\Debug\net8.0\refint\Gyumri.Application.dll
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\obj\Debug\net8.0\Gyumri.Application.pdb
+C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Application\obj\Debug\net8.0\ref\Gyumri.Application.dll

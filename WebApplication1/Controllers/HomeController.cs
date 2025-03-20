@@ -1,35 +1,47 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using RestSharp;
 using System.Diagnostics;
+using System.Globalization;
+using System.Threading;
+using System.Web;
 
 namespace Gyumri.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+        private const string CultureCookieName = "UserCulture";
 
         public IActionResult Index()
         {
-            string filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/Content/index.html");
+            // Ընտրած լեզուն
+            var language = Request.Cookies[CultureCookieName] ?? "en"; // Default 'en'
 
-            if (System.IO.File.Exists(filePath))
+            // Լեզուն կիրառել
+            var cultureInfo = new System.Globalization.CultureInfo(language);
+            System.Threading.Thread.CurrentThread.CurrentCulture = cultureInfo;
+            System.Threading.Thread.CurrentThread.CurrentUICulture = cultureInfo;
+
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult ChangeLanguage(string lang)
+        {
+            // Պահել լեզուն cookie-ում
+            Response.Cookies.Append(CultureCookieName, lang, new Microsoft.AspNetCore.Http.CookieOptions
             {
-                return PhysicalFile(filePath, "text/html");
-            }
-            else
-            {
-                return NotFound(); // If the file does not exist
-            }
+                Expires = DateTime.UtcNow.AddYears(1),  // Լեզուն պահպանվում է 1 տարի
+                IsEssential = true, // Անհրաժեշտ է կարգավորումների համար
+                SameSite = Microsoft.AspNetCore.Http.SameSiteMode.Lax // Համակարգչի միջավայրում
+            });
+
+            // Արտահանենք լեզվով փոխված էջը
+            return RedirectToAction("Index");
         }
 
         public IActionResult Privacy()
         {
             return View();
         }
-
     }
 }
