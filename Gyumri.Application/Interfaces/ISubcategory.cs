@@ -1,4 +1,6 @@
 ﻿using Gyumri.Common.ViewModel.Subcategory;
+using Gyumri.Data.Models;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -11,5 +13,6 @@ namespace Gyumri.Application.Interfaces
         Task<bool> DeleteSubcategory(int subcategoryId);
         List<SubcategoryViewModel> GetAllSubcategories();
         Task<SubcategoryViewModel> GetSubcategoryById(int subcategoryId);
+        Task<List<Subcategory>> GetSubcategoriesByCategoryId(int categoryId);
     }
 }

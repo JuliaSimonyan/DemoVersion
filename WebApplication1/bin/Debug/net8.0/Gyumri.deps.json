@@ -2103,7 +2103,14 @@
       "System.Data.DataSetExtensions/4.5.0": {},
       "System.Diagnostics.DiagnosticSource/8.0.1": {},
       "System.Diagnostics.EventLog/8.0.0": {},
-      "System.Formats.Asn1/8.0.1": {},
+      "System.Formats.Asn1/8.0.1": {
+        "runtime": {
+          "lib/net8.0/System.Formats.Asn1.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.724.31311"
+          }
+        }
+      },
       "System.IdentityModel.Tokens.Jwt/6.35.0": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "6.35.0",
@@ -2241,10 +2248,7 @@
           "Microsoft.AspNetCore.Mvc.Localization": "2.3.0"
         },
         "runtime": {
-          "Gyumri.Application.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Gyumri.Application.dll": {}
         }
       },
       "Gyumri.Common/1.0.0": {
@@ -2253,10 +2257,7 @@
           "Microsoft.AspNetCore.Mvc.Localization": "2.3.0"
         },
         "runtime": {
-          "Gyumri.Common.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Gyumri.Common.dll": {}
         }
       },
       "Gyumri.Data/1.0.0": {
@@ -2268,10 +2269,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
         },
         "runtime": {
-          "Gyumri.Data.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Gyumri.Data.dll": {}
         }
       }
     }

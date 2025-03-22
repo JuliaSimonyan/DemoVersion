@@ -10,6 +10,20 @@
 </head>
 <body>
 
+    <header>
+        <nav>
+            @foreach (var menuItem in ViewBag.Categories)
+            {
+                <li>
+                    <a asp-action="Category" asp-controller="Home" asp-route-categoryId="@menuItem.CategoryId">
+                        @menuItem.Name
+                    </a>
+                </li>
+            }
+        </nav>
+    </header>
+
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()

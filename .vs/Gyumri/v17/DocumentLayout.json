@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9050E002-E003-4939-A96F-54258F34F9EE}|WebApplication1\\Gyumri.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9050E002-E003-4939-A96F-54258F34F9EE}|WebApplication1\\Gyumri.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F76AD3-F7CA-44F6-B174-794F0E44B3C1}|Gyumri.Data\\Gyumri.Data.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\gyumri.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F76AD3-F7CA-44F6-B174-794F0E44B3C1}|Gyumri.Data\\Gyumri.Data.csproj|solutionrelative:gyumri.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F76AD3-F7CA-44F6-B174-794F0E44B3C1}|Gyumri.Data\\Gyumri.Data.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\gyumri.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F76AD3-F7CA-44F6-B174-794F0E44B3C1}|Gyumri.Data\\Gyumri.Data.csproj|solutionrelative:gyumri.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F76AD3-F7CA-44F6-B174-794F0E44B3C1}|Gyumri.Data\\Gyumri.Data.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\gyumri.data\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F76AD3-F7CA-44F6-B174-794F0E44B3C1}|Gyumri.Data\\Gyumri.Data.csproj|solutionrelative:gyumri.data\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F76AD3-F7CA-44F6-B174-794F0E44B3C1}|Gyumri.Data\\Gyumri.Data.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\gyumri.data\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F76AD3-F7CA-44F6-B174-794F0E44B3C1}|Gyumri.Data\\Gyumri.Data.csproj|solutionrelative:gyumri.data\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F495F5-E7D3-44FF-8953-F68F226D0824}|Gyumri.Application\\Gyumri.Application.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\gyumri.application\\services\\subcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F495F5-E7D3-44FF-8953-F68F226D0824}|Gyumri.Application\\Gyumri.Application.csproj|solutionrelative:gyumri.application\\services\\subcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9050E002-E003-4939-A96F-54258F34F9EE}|WebApplication1\\Gyumri.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\webapplication1\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9050E002-E003-4939-A96F-54258F34F9EE}|WebApplication1\\Gyumri.csproj|solutionrelative:webapplication1\\views\\home\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F495F5-E7D3-44FF-8953-F68F226D0824}|Gyumri.Application\\Gyumri.Application.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\gyumri.application\\interfaces\\isubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F495F5-E7D3-44FF-8953-F68F226D0824}|Gyumri.Application\\Gyumri.Application.csproj|solutionrelative:gyumri.application\\interfaces\\isubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9050E002-E003-4939-A96F-54258F34F9EE}|WebApplication1\\Gyumri.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9050E002-E003-4939-A96F-54258F34F9EE}|WebApplication1\\Gyumri.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9050E002-E003-4939-A96F-54258F34F9EE}|WebApplication1\\Gyumri.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9050E002-E003-4939-A96F-54258F34F9EE}|WebApplication1\\Gyumri.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9050E002-E003-4939-A96F-54258F34F9EE}|WebApplication1\\Gyumri.csproj|c:\\users\\user\\source\\repos\\gyumi_project\\webapplication1\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9050E002-E003-4939-A96F-54258F34F9EE}|WebApplication1\\Gyumri.csproj|solutionrelative:webapplication1\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Data\\Models\\Place.cs",
+              "RelativeDocumentMoniker": "Gyumri.Data\\Models\\Place.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Data\\Models\\Place.cs",
+              "RelativeToolTip": "Gyumri.Data\\Models\\Place.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:20:56.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Data\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Gyumri.Data\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Data\\Models\\Category.cs",
+              "RelativeToolTip": "Gyumri.Data\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:20:08.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISubcategory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Application\\Interfaces\\ISubcategory.cs",
+              "RelativeDocumentMoniker": "Gyumri.Application\\Interfaces\\ISubcategory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Application\\Interfaces\\ISubcategory.cs",
+              "RelativeToolTip": "Gyumri.Application\\Interfaces\\ISubcategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:53:07.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:27:50.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subcategory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Data\\Models\\Subcategory.cs",
+              "RelativeDocumentMoniker": "Gyumri.Data\\Models\\Subcategory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Data\\Models\\Subcategory.cs",
+              "RelativeToolTip": "Gyumri.Data\\Models\\Subcategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:53:49.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Gyumri.Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Data\\Models\\User.cs",
+              "RelativeToolTip": "Gyumri.Data\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:23:03.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubcategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Application\\Services\\SubcategoryService.cs",
+              "RelativeDocumentMoniker": "Gyumri.Application\\Services\\SubcategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Application\\Services\\SubcategoryService.cs",
+              "RelativeToolTip": "Gyumri.Application\\Services\\SubcategoryService.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswFsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:13:02.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:53:25.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:53:20.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Views\\Home\\Category.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Category.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Views\\Home\\Category.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Category.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T07:01:31.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Usings.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Usings.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Usings.cs",
+              "RelativeToolTip": "WebApplication1\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:53:15.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

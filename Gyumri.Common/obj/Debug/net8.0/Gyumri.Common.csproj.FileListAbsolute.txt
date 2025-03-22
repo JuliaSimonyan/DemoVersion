@@ -34,3 +34,16 @@ C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.
 C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Common\obj\Debug\net8.0\refint\Gyumri.Common.dll
 C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.pdb
 C:\Users\inesa.mkrtchyan\Downloads\Gyumi_Project-main\Gyumi_Project-main\Gyumri.Common\obj\Debug\net8.0\ref\Gyumri.Common.dll
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\bin\Debug\net8.0\Gyumri.Common.deps.json
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\bin\Debug\net8.0\Gyumri.Common.dll
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\bin\Debug\net8.0\Gyumri.Common.pdb
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.sourcelink.json
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.dll
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\refint\Gyumri.Common.dll
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.pdb
+C:\Users\user\Source\Repos\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\ref\Gyumri.Common.dll

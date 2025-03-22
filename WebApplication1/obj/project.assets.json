@@ -9161,24 +9161,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\inesa.mkrtchyan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\WebApplication1\\Gyumri.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Gyumri.csproj",
       "projectName": "Gyumri",
-      "projectPath": "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\WebApplication1\\Gyumri.csproj",
-      "packagesPath": "C:\\Users\\inesa.mkrtchyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\Gyumri.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\Gyumi_Project\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\inesa.mkrtchyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9193,14 +9188,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\Gyumri.Application\\Gyumri.Application.csproj": {
-              "projectPath": "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\Gyumri.Application\\Gyumri.Application.csproj"
+            "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Application\\Gyumri.Application.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Application\\Gyumri.Application.csproj"
             },
-            "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\Gyumri.Common\\Gyumri.Common.csproj": {
-              "projectPath": "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\Gyumri.Common\\Gyumri.Common.csproj"
+            "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj"
             },
-            "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\Gyumri.Data\\Gyumri.Data.csproj": {
-              "projectPath": "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\Gyumri.Data\\Gyumri.Data.csproj"
+            "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\Gyumri.Data\\Gyumri.Data.csproj"
             }
           }
         }
@@ -9214,8 +9209,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -9275,7 +9269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

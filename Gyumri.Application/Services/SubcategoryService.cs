@@ -22,7 +22,7 @@ namespace Gyumri.Application.Services
 
         public async Task<bool> AddSubcategory(AddSubcategoryViewModel model)
         {
-            if(model == null) return false;
+            if (model == null) return false;
             Subcategory subcategory = new()
             {
                 Name = model.Name,
@@ -43,52 +43,58 @@ namespace Gyumri.Application.Services
             return true;
 
         }
- 
-    public async Task<bool> EditSubcategory(EditSubcategoryViewModel model)
-    {
-        if (model == null) return false;
 
-        var subcategory = await _context.Subcategories.FindAsync(model.SubcategoryId);
-        if (subcategory == null) return false;
-
-        subcategory.Name = model.Name;
-        subcategory.CategoryId = model.CategoryId;
-
-        _context.Subcategories.Update(subcategory);
-        await _context.SaveChangesAsync();
-        return true;
-    }
-
-    public List<SubcategoryViewModel> GetAllSubcategories()
-    {
-        return _context.Subcategories
-            .Include(s => s.Category) 
-            .Select(s => new SubcategoryViewModel
-            {
-                SubcategoryId = s.SubcategoryId,
-                Name = s.Name,
-                CategoryId = s.CategoryId,
-                CategoryName = s.Category.Name 
-            })
-            .ToList();
-    }
-
-    public async Task<SubcategoryViewModel> GetSubcategoryById(int subcategoryId)
-    {
-        var subcategory = await _context.Subcategories
-            .Include(s => s.Category)
-            .FirstOrDefaultAsync(s => s.SubcategoryId == subcategoryId);
-
-        if (subcategory == null) return null;
-
-        return new SubcategoryViewModel
+        public async Task<bool> EditSubcategory(EditSubcategoryViewModel model)
         {
-            SubcategoryId = subcategory.SubcategoryId,
-            Name = subcategory.Name,
-            CategoryId = subcategory.CategoryId,
-            CategoryName = subcategory.Category.Name
-        };
+            if (model == null) return false;
+
+            var subcategory = await _context.Subcategories.FindAsync(model.SubcategoryId);
+            if (subcategory == null) return false;
+
+            subcategory.Name = model.Name;
+            subcategory.CategoryId = model.CategoryId;
+
+            _context.Subcategories.Update(subcategory);
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
+        public List<SubcategoryViewModel> GetAllSubcategories()
+        {
+            return _context.Subcategories
+                .Include(s => s.Category)
+                .Select(s => new SubcategoryViewModel
+                {
+                    SubcategoryId = s.SubcategoryId,
+                    Name = s.Name,
+                    CategoryId = s.CategoryId,
+                    CategoryName = s.Category.Name
+                })
+                .ToList();
+        }
+
+        public async Task<SubcategoryViewModel> GetSubcategoryById(int subcategoryId)
+        {
+            var subcategory = await _context.Subcategories
+                .Include(s => s.Category)
+                .FirstOrDefaultAsync(s => s.SubcategoryId == subcategoryId);
+
+            if (subcategory == null) return null;
+
+            return new SubcategoryViewModel
+            {
+                SubcategoryId = subcategory.SubcategoryId,
+                Name = subcategory.Name,
+                CategoryId = subcategory.CategoryId,
+                CategoryName = subcategory.Category.Name
+            };
+        }
+        public async Task<List<Subcategory>> GetSubcategoriesByCategoryId(int categoryId)
+        {
+            return await _context.Subcategories
+                .Where(s => s.CategoryId == categoryId)
+                .ToListAsync();
+        }
     }
-}
 }
 

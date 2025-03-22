@@ -1,4 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Gyumri.Application.Interfaces;
+using Gyumri.Application.Services;
+using Gyumri.Common.ViewModel.Category;
+using Gyumri.Data.Models;
+using Microsoft.AspNetCore.Mvc;
 using RestSharp;
 using System.Diagnostics;
 using System.Globalization;
@@ -10,17 +14,36 @@ namespace Gyumri.Controllers
     public class HomeController : Controller
     {
         private const string CultureCookieName = "UserCulture";
-
-        public IActionResult Index()
+        private readonly ApplicationContext _context;
+        private readonly ICategory _categoryService;
+        private readonly ISubcategory _subcategoryService;
+        public HomeController(ICategory categoryService, ApplicationContext context, ISubcategory subcategoryService)
         {
-            // Ընտրած լեզուն
-            var language = Request.Cookies[CultureCookieName] ?? "en"; // Default 'en'
+            _categoryService = categoryService;
+            _context = context;
+            _subcategoryService = subcategoryService;
+        }
 
-            // Լեզուն կիրառել
+        [HttpGet]
+        public async Task<IActionResult> Index()
+        {
+            var language = Request.Cookies[CultureCookieName] ?? "en"; // Default 'en'
             var cultureInfo = new System.Globalization.CultureInfo(language);
             System.Threading.Thread.CurrentThread.CurrentCulture = cultureInfo;
             System.Threading.Thread.CurrentThread.CurrentUICulture = cultureInfo;
 
+            ViewBag.Categories = await _categoryService.GetAllCategories();
+            return View();
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Category(int categoryId)
+        {
+            Category category = await _categoryService.GetCategoryById(categoryId);
+            var subcategories = await _subcategoryService.GetSubcategoriesByCategoryId(categoryId);
+            ViewBag.Subcategories = subcategories;
+            ViewBag.Category = category;
+            ViewBag.Categories = await _categoryService.GetAllCategories();
             return View();
         }
 

@@ -7420,24 +7420,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\inesa.mkrtchyan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\Gyumri.Common\\Gyumri.Common.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj",
       "projectName": "Gyumri.Common",
-      "projectPath": "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\Gyumri.Common\\Gyumri.Common.csproj",
-      "packagesPath": "C:\\Users\\inesa.mkrtchyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\inesa.mkrtchyan\\Downloads\\Gyumi_Project-main\\Gyumi_Project-main\\Gyumri.Common\\obj\\",
+      "projectPath": "C:\\Users\\user\\Source\\Repos\\Gyumi_Project\\Gyumri.Common\\Gyumri.Common.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\Gyumi_Project\\Gyumri.Common\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\inesa.mkrtchyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7463,8 +7458,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -7495,7 +7489,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,7 +5,10 @@ namespace Gyumri.Data.Models
     public class Subcategory
     {
         public int SubcategoryId { get; set; }
-        public string? Name { get; set; }
+        public string? Name { get; set; }//en
+        //public string? NameArm { get; set; }
+        //public string? NameRu { get; set; }
+
 
         [ForeignKey("Category")]
         public int CategoryId { get; set; }

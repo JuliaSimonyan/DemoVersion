@@ -9,7 +9,9 @@ namespace Gyumri.Data.Models
     public class User
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string Name { get; set; }//en
+        //public string NameArm { get; set; }
+        //public string NameRu { get; set; }
         public string Password { get; set; }
     }
 }
