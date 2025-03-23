@@ -1,531 +1,527 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gyumri.bundle.scp.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gyumri.bundle.scp.css",
       "PackagePath": "staticwebassets\\Gyumri.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\166488037_2263773530423316_4100471654477335040_n 3.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\166488037_2263773530423316_4100471654477335040_n 3.png",
       "PackagePath": "staticwebassets\\Content\\Images\\166488037_2263773530423316_4100471654477335040_n 3.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Frame.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Frame.png",
       "PackagePath": "staticwebassets\\Content\\Images\\Frame.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Group.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Group.png",
       "PackagePath": "staticwebassets\\Content\\Images\\Group.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector (1).png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector (1).png",
       "PackagePath": "staticwebassets\\Content\\Images\\Vector (1).png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector (2).png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector (2).png",
       "PackagePath": "staticwebassets\\Content\\Images\\Vector (2).png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector.png",
       "PackagePath": "staticwebassets\\Content\\Images\\Vector.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\1.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\1.png",
       "PackagePath": "staticwebassets\\Content\\Images\\Vectors\\1.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\2.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\2.png",
       "PackagePath": "staticwebassets\\Content\\Images\\Vectors\\2.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\3.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\3.png",
       "PackagePath": "staticwebassets\\Content\\Images\\Vectors\\3.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar1.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar1.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\bar1.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar2.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar2.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\bar2.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar3.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar3.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\bar3.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe1.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe1.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\cafe1.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe2.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe2.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\cafe2.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe3.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe3.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\cafe3.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat1.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat1.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\eat1.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat2.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat2.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\eat2.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat3.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat3.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\eat3.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat4.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat4.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\eat4.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eatheader.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eatheader.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\eatheader.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\gif1.gif",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\gif1.gif",
       "PackagePath": "staticwebassets\\Content\\Images\\gif1.gif"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\header-background.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\header-background.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\header-background.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\image 4.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\image 4.png",
       "PackagePath": "staticwebassets\\Content\\Images\\image 4.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more1.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more1.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\more1.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more2.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more2.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\more2.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more3.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more3.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\more3.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more4.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more4.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\more4.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place1.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place1.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\place1.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place2.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place2.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\place2.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place3.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place3.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\place3.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place4.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place4.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\place4.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place5.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place5.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\place5.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason1.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason1.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\reason1.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason2.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason2.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\reason2.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason3.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason3.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\reason3.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason4.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason4.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\reason4.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason5.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason5.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\reason5.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\relaxheader.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\relaxheader.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\relaxheader.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest1.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest1.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\rest1.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest2.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest2.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\rest2.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest3.jpeg",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest3.jpeg",
       "PackagePath": "staticwebassets\\Content\\Images\\rest3.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see1.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see1.png",
       "PackagePath": "staticwebassets\\Content\\Images\\see1.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see2.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see2.png",
       "PackagePath": "staticwebassets\\Content\\Images\\see2.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see3.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see3.png",
       "PackagePath": "staticwebassets\\Content\\Images\\see3.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\seeheader.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\seeheader.png",
       "PackagePath": "staticwebassets\\Content\\Images\\seeheader.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\view1.png",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\view1.png",
       "PackagePath": "staticwebassets\\Content\\Images\\view1.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\eat.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\eat.css",
       "PackagePath": "staticwebassets\\Content\\css\\eat.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\lifeandwork.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\lifeandwork.css",
       "PackagePath": "staticwebassets\\Content\\css\\lifeandwork.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\n.css",
-      "PackagePath": "staticwebassets\\Content\\css\\n.css"
-    },
-    {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\newresponsive.css",
-      "PackagePath": "staticwebassets\\Content\\css\\newresponsive.css"
-    },
-    {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\relax.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\relax.css",
       "PackagePath": "staticwebassets\\Content\\css\\relax.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\responsive.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\responsive.css",
       "PackagePath": "staticwebassets\\Content\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\see.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\see.css",
       "PackagePath": "staticwebassets\\Content\\css\\see.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Black.otf",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Black.otf",
       "PackagePath": "staticwebassets\\Content\\fonts\\Montserratarm-Black.otf"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Bold.otf",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Bold.otf",
       "PackagePath": "staticwebassets\\Content\\fonts\\Montserratarm-Bold.otf"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-ExtraBold.otf",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-ExtraBold.otf",
       "PackagePath": "staticwebassets\\Content\\fonts\\Montserratarm-ExtraBold.otf"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-ExtraLight.otf",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-ExtraLight.otf",
       "PackagePath": "staticwebassets\\Content\\fonts\\Montserratarm-ExtraLight.otf"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Light.otf",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Light.otf",
       "PackagePath": "staticwebassets\\Content\\fonts\\Montserratarm-Light.otf"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Medium.otf",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Medium.otf",
       "PackagePath": "staticwebassets\\Content\\fonts\\Montserratarm-Medium.otf"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Regular.otf",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Regular.otf",
       "PackagePath": "staticwebassets\\Content\\fonts\\Montserratarm-Regular.otf"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-SemiBold.otf",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-SemiBold.otf",
       "PackagePath": "staticwebassets\\Content\\fonts\\Montserratarm-SemiBold.otf"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Thin.otf",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Thin.otf",
       "PackagePath": "staticwebassets\\Content\\fonts\\Montserratarm-Thin.otf"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\eatanddrink.html",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\eatanddrink.html",
       "PackagePath": "staticwebassets\\Content\\html\\eatanddrink.html"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\lifeandwork.html",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\lifeandwork.html",
       "PackagePath": "staticwebassets\\Content\\html\\lifeandwork.html"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\relaxandsleep.html",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\relaxandsleep.html",
       "PackagePath": "staticwebassets\\Content\\html\\relaxandsleep.html"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\seeanddo.html",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\seeanddo.html",
       "PackagePath": "staticwebassets\\Content\\html\\seeanddo.html"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\index.html",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\index.html",
       "PackagePath": "staticwebassets\\Content\\index.html"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\script.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\script.js",
       "PackagePath": "staticwebassets\\Content\\script.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\style.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\style.css",
       "PackagePath": "staticwebassets\\Content\\style.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\responsive.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Images\\places\\285cb132-eaac-4e8f-b356-fd5bac1779a8.jpeg",
+      "PackagePath": "staticwebassets\\Images\\places\\285cb132-eaac-4e8f-b356-fd5bac1779a8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0X4nQZZnggyvIL6hflEMUPx51dn9ulROZBR+Cw4d6Uk=",
+  "Hash": "9TSeYov1q/BMb9PpbDDb6LfN1wqo32b8IT1MKmR5ENg=",
   "Source": "Gyumri",
   "BasePath": "_content/Gyumri",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Gyumri\\wwwroot",
       "Source": "Gyumri",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Gyumri.styles.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Gyumri.styles.css",
       "SourceId": "Gyumri",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Gyumri.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Gyumri.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Gyumri.styles.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gyumri.bundle.scp.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gyumri.bundle.scp.css",
       "SourceId": "Gyumri",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Gyumri.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gyumri.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Gyumri.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\eat.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\eat.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/css/eat.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\css\\eat.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\lifeandwork.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\lifeandwork.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/css/lifeandwork.css",
       "AssetKind": "All",
@@ -93,48 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\css\\lifeandwork.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\n.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\relax.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/Gyumri",
-      "RelativePath": "Content/css/n.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Content\\css\\n.css"
-    },
-    {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\newresponsive.css",
-      "SourceId": "Gyumri",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/Gyumri",
-      "RelativePath": "Content/css/newresponsive.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Content\\css\\newresponsive.css"
-    },
-    {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\relax.css",
-      "SourceId": "Gyumri",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/css/relax.css",
       "AssetKind": "All",
@@ -150,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\css\\relax.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\responsive.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\responsive.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/css/responsive.css",
       "AssetKind": "All",
@@ -169,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\see.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\css\\see.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/css/see.css",
       "AssetKind": "All",
@@ -188,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\css\\see.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Black.otf",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Black.otf",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/fonts/Montserratarm-Black.otf",
       "AssetKind": "All",
@@ -207,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\fonts\\Montserratarm-Black.otf"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Bold.otf",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Bold.otf",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/fonts/Montserratarm-Bold.otf",
       "AssetKind": "All",
@@ -226,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\fonts\\Montserratarm-Bold.otf"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-ExtraBold.otf",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-ExtraBold.otf",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/fonts/Montserratarm-ExtraBold.otf",
       "AssetKind": "All",
@@ -245,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\fonts\\Montserratarm-ExtraBold.otf"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-ExtraLight.otf",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-ExtraLight.otf",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/fonts/Montserratarm-ExtraLight.otf",
       "AssetKind": "All",
@@ -264,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\fonts\\Montserratarm-ExtraLight.otf"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Light.otf",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Light.otf",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/fonts/Montserratarm-Light.otf",
       "AssetKind": "All",
@@ -283,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\fonts\\Montserratarm-Light.otf"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Medium.otf",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Medium.otf",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/fonts/Montserratarm-Medium.otf",
       "AssetKind": "All",
@@ -302,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\fonts\\Montserratarm-Medium.otf"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Regular.otf",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Regular.otf",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/fonts/Montserratarm-Regular.otf",
       "AssetKind": "All",
@@ -321,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\fonts\\Montserratarm-Regular.otf"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-SemiBold.otf",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-SemiBold.otf",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/fonts/Montserratarm-SemiBold.otf",
       "AssetKind": "All",
@@ -340,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\fonts\\Montserratarm-SemiBold.otf"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Thin.otf",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\fonts\\Montserratarm-Thin.otf",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/fonts/Montserratarm-Thin.otf",
       "AssetKind": "All",
@@ -359,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\fonts\\Montserratarm-Thin.otf"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\eatanddrink.html",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\eatanddrink.html",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/html/eatanddrink.html",
       "AssetKind": "All",
@@ -378,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\html\\eatanddrink.html"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\lifeandwork.html",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\lifeandwork.html",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/html/lifeandwork.html",
       "AssetKind": "All",
@@ -397,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\html\\lifeandwork.html"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\relaxandsleep.html",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\relaxandsleep.html",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/html/relaxandsleep.html",
       "AssetKind": "All",
@@ -416,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\html\\relaxandsleep.html"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\seeanddo.html",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\html\\seeanddo.html",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/html/seeanddo.html",
       "AssetKind": "All",
@@ -435,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\html\\seeanddo.html"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\166488037_2263773530423316_4100471654477335040_n 3.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\166488037_2263773530423316_4100471654477335040_n 3.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/166488037_2263773530423316_4100471654477335040_n 3.png",
       "AssetKind": "All",
@@ -454,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\166488037_2263773530423316_4100471654477335040_n 3.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar1.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar1.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/bar1.jpeg",
       "AssetKind": "All",
@@ -473,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\bar1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar2.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar2.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/bar2.jpeg",
       "AssetKind": "All",
@@ -492,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\bar2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar3.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\bar3.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/bar3.jpeg",
       "AssetKind": "All",
@@ -511,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\bar3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe1.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe1.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/cafe1.jpeg",
       "AssetKind": "All",
@@ -530,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\cafe1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe2.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe2.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/cafe2.jpeg",
       "AssetKind": "All",
@@ -549,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\cafe2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe3.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\cafe3.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/cafe3.jpeg",
       "AssetKind": "All",
@@ -568,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\cafe3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat1.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat1.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/eat1.jpeg",
       "AssetKind": "All",
@@ -587,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\eat1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat2.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat2.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/eat2.jpeg",
       "AssetKind": "All",
@@ -606,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\eat2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat3.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat3.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/eat3.jpeg",
       "AssetKind": "All",
@@ -625,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\eat3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat4.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eat4.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/eat4.jpeg",
       "AssetKind": "All",
@@ -644,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\eat4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eatheader.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\eatheader.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/eatheader.jpeg",
       "AssetKind": "All",
@@ -663,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\eatheader.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Frame.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Frame.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/Frame.png",
       "AssetKind": "All",
@@ -682,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\Frame.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\gif1.gif",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\gif1.gif",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/gif1.gif",
       "AssetKind": "All",
@@ -701,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\gif1.gif"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Group.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Group.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/Group.png",
       "AssetKind": "All",
@@ -720,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\Group.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\header-background.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\header-background.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/header-background.jpeg",
       "AssetKind": "All",
@@ -739,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\header-background.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\image 4.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\image 4.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/image 4.png",
       "AssetKind": "All",
@@ -758,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\image 4.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more1.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more1.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/more1.jpeg",
       "AssetKind": "All",
@@ -777,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\more1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more2.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more2.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/more2.jpeg",
       "AssetKind": "All",
@@ -796,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\more2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more3.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more3.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/more3.jpeg",
       "AssetKind": "All",
@@ -815,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\more3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more4.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\more4.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/more4.jpeg",
       "AssetKind": "All",
@@ -834,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\more4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place1.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place1.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/place1.jpeg",
       "AssetKind": "All",
@@ -853,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\place1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place2.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place2.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/place2.jpeg",
       "AssetKind": "All",
@@ -872,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\place2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place3.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place3.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/place3.jpeg",
       "AssetKind": "All",
@@ -891,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\place3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place4.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place4.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/place4.jpeg",
       "AssetKind": "All",
@@ -910,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\place4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place5.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\place5.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/place5.jpeg",
       "AssetKind": "All",
@@ -929,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\place5.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason1.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason1.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/reason1.jpeg",
       "AssetKind": "All",
@@ -948,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\reason1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason2.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason2.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/reason2.jpeg",
       "AssetKind": "All",
@@ -967,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\reason2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason3.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason3.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/reason3.jpeg",
       "AssetKind": "All",
@@ -986,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\reason3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason4.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason4.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/reason4.jpeg",
       "AssetKind": "All",
@@ -1005,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\reason4.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason5.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\reason5.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/reason5.jpeg",
       "AssetKind": "All",
@@ -1024,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\reason5.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\relaxheader.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\relaxheader.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/relaxheader.jpeg",
       "AssetKind": "All",
@@ -1043,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\relaxheader.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest1.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest1.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/rest1.jpeg",
       "AssetKind": "All",
@@ -1062,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\rest1.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest2.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest2.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/rest2.jpeg",
       "AssetKind": "All",
@@ -1081,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\rest2.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest3.jpeg",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\rest3.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/rest3.jpeg",
       "AssetKind": "All",
@@ -1100,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\rest3.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see1.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see1.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/see1.png",
       "AssetKind": "All",
@@ -1119,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\see1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see2.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see2.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/see2.png",
       "AssetKind": "All",
@@ -1138,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\see2.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see3.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\see3.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/see3.png",
       "AssetKind": "All",
@@ -1157,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\see3.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\seeheader.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\seeheader.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/seeheader.png",
       "AssetKind": "All",
@@ -1176,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\seeheader.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector (1).png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector (1).png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/Vector (1).png",
       "AssetKind": "All",
@@ -1195,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\Vector (1).png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector (2).png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector (2).png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/Vector (2).png",
       "AssetKind": "All",
@@ -1214,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\Vector (2).png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vector.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/Vector.png",
       "AssetKind": "All",
@@ -1233,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\Vector.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\1.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\1.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/Vectors/1.png",
       "AssetKind": "All",
@@ -1252,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\Vectors\\1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\2.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\2.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/Vectors/2.png",
       "AssetKind": "All",
@@ -1271,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\Vectors\\2.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\3.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\Vectors\\3.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/Vectors/3.png",
       "AssetKind": "All",
@@ -1290,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\Vectors\\3.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\view1.png",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\Images\\view1.png",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/Images/view1.png",
       "AssetKind": "All",
@@ -1309,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\Images\\view1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\index.html",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\index.html",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/index.html",
       "AssetKind": "All",
@@ -1328,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\index.html"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\script.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\script.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/script.js",
       "AssetKind": "All",
@@ -1347,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\script.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\style.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Content\\style.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "Content/style.css",
       "AssetKind": "All",
@@ -1366,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\style.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\responsive.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -1385,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\site.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1404,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\css\\style.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1423,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\favicon.ico",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1442,10 +1404,29 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\Images\\places\\285cb132-eaac-4e8f-b356-fd5bac1779a8.jpeg",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/Gyumri",
+      "RelativePath": "Images/places/285cb132-eaac-4e8f-b356-fd5bac1779a8.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\places\\285cb132-eaac-4e8f-b356-fd5bac1779a8.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\js\\site.js",
+      "SourceId": "Gyumri",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1461,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1480,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1499,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1518,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1537,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1556,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1575,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1594,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1613,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1632,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1651,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1670,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1689,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1708,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1727,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1746,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1765,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1784,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1803,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1822,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1841,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1860,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1879,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1898,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1917,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1936,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1955,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1974,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1993,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2012,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2031,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2050,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2069,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2088,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2107,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2126,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2145,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2164,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2183,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2202,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2221,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2240,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2259,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2278,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2297,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2316,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2335,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2354,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2373,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2392,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2411,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2430,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2449,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2468,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2487,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2506,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2525,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Gyumri",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Gyumi_Project\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Computer\\Desktop\\ADmin panel\\Demo\\Gyumi_Project\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/Gyumri",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -26,7 +26,7 @@
             <tr>
                 <td>@place.PlaceName</td>
                 <td>@place.Description</td>
-                <td><img src="@place.Photo" alt="Place Image" style="width: 50px; height: 50px;" /></td>
+                <td><img src="/Images/places/@place.Photo" alt="Place Image" style="width: 50px; height: 50px;" /></td>
                 <td>@place.SubcategoryId</td>
                 <td>
                     <a href="@Url.Action("Edit", "Place", new { id = place.Id, area = "Admin" })" class="btn btn-warning">Edit</a>

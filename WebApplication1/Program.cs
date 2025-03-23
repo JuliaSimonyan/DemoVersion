@@ -48,8 +48,6 @@ var localizationOptions = new RequestLocalizationOptions()
     .AddSupportedCultures(supportedCultures)
     .AddSupportedUICultures(supportedCultures);
 
-app.UseAuthorization();
-
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapControllerRoute(
@@ -61,6 +59,9 @@ app.UseEndpoints(endpoints =>
         name: "areas",
         pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
 });
+
+app.UseAuthorization();
+
 app.UseCookiePolicy();
 
 app.MapControllerRoute(

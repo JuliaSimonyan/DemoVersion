@@ -15,9 +15,6 @@ namespace Gyumri.Common.ViewModel.Place
         public string Description { get; set; }
         public string Photo { get; set; }
         public int SubcategoryId { get; set; }
-
-        public IFormFile UploadedPhoto { get; set; }
-
     }
 
 }

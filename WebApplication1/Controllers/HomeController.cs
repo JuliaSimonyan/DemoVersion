@@ -66,5 +66,17 @@ namespace Gyumri.Controllers
         {
             return View();
         }
+        public IActionResult SeeAndDo()
+        {
+            return View();
+        }
+        public IActionResult EatAndDrink()
+        {
+            return View();
+        }
+        public IActionResult RelaxAndSleep()
+        {
+            return View();
+        }
     }
 }

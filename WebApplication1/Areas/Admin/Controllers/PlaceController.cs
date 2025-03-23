@@ -1,6 +1,7 @@
 ﻿using Gyumri.Application.Interfaces;
 using Gyumri.Application.Services;
 using Gyumri.Common.ViewModel.Place;
+using Gyumri.Common.ViewModel.Subcategory;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Gyumri.Areas.Admin.Controllers
@@ -11,12 +12,14 @@ namespace Gyumri.Areas.Admin.Controllers
         private readonly IPlace _placeService;
         private readonly ISubcategory _subcategoryService;
 
+        private readonly IWebHostEnvironment _webHostEnvironment;
 
 
-        public PlaceController(IPlace placeService, ISubcategory subcategoryService)
+        public PlaceController(IPlace placeService, ISubcategory subcategoryService, IWebHostEnvironment webHostEnvironment)
         {
             _placeService = placeService;
             _subcategoryService = subcategoryService;
+            _webHostEnvironment = webHostEnvironment;
         }
 
         public IActionResult Index()
@@ -27,69 +30,25 @@ namespace Gyumri.Areas.Admin.Controllers
 
         public IActionResult Add()
         {
+
             var subcategories = _subcategoryService.GetAllSubcategories();
             ViewBag.Subcategories = subcategories;
 
-
             return View();
         }
-
         [HttpPost]
         public IActionResult Add(AddEditPlaceViewModel model, IFormFile photo)
         {
-            Console.WriteLine("POST Add action hit.");
-
-            if (!ModelState.IsValid)
+            if (photo != null)
             {
-                Console.WriteLine("ModelState is not valid.");
-
-                var subcategories = _subcategoryService.GetAllSubcategories();
-                ViewBag.Subcategories = subcategories;
-                return View(model);
+                string fileName = Guid.NewGuid() + System.IO.Path.GetExtension(photo.FileName);
+                string path = $"{_webHostEnvironment.WebRootPath}/Images/places/{fileName}";
+                model.Photo = fileName;
+                using var fileStream = new FileStream(path, FileMode.Create);
+                photo.CopyTo(fileStream);
             }
-
-            if (photo != null && photo.Length > 0)
-            {
-                Console.WriteLine("Photo provided, processing the file.");
-
-                var fileName = Guid.NewGuid().ToString() + Path.GetExtension(photo.FileName);
-                var directoryPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images");
-
-                if (!Directory.Exists(directoryPath))
-                {
-                    Directory.CreateDirectory(directoryPath);
-                }
-
-                var filePath = Path.Combine(directoryPath, fileName);
-
-                using (var fileStream = new FileStream(filePath, FileMode.Create))
-                {
-                    photo.CopyTo(fileStream);
-                }
-
-                model.Photo = "/images/" + fileName;
-            }
-            else
-            {
-                model.Photo = "default.jpg";
-            }
-
-            Console.WriteLine("Calling AddPlace method.");
-
-            bool result = _placeService.AddPlace(model); 
-            if (result) 
-            {
-                Console.WriteLine("Place added successfully.");
-                return RedirectToAction("Index");
-            }
-
-            Console.WriteLine("Failed to add place.");
-            ModelState.AddModelError("", "Failed to add place.");
-
-            var subcategoriesAgain = _subcategoryService.GetAllSubcategories();
-            ViewBag.Subcategories = subcategoriesAgain;
-
-            return View(model);
+            bool place = _placeService.AddPlace(model);
+            return RedirectToAction("Index");
         }
 
     }
