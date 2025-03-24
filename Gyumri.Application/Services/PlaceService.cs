@@ -1,5 +1,6 @@
 ﻿using Gyumri.Application.Interfaces;
 using Gyumri.Common.ViewModel.Place;
+using Microsoft.EntityFrameworkCore;
 using Gyumri.Data.Models;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,19 +16,20 @@ namespace Gyumri.Application.Services
             _context = context;
         }
 
-        public IEnumerable<PlacesViewModel> GetAllPlaces()
+        public async Task<List<PlacesViewModel>> GetAllPlaces()
         {
-            return _context.Places
+            return await _context.Places
                 .Select(p => new PlacesViewModel
                 {
                     Id = p.PlaceId,
-                    PlaceName = p.PlaceName,
                     Description = p.Description,
-                    Photo = p.Photo,
-                    SubcategoryId = p.SubcategoryId
+                    PlaceName = p.PlaceName,
+                    SubcategoryId = p.SubcategoryId,
+                    Photo = p.Photo
                 })
-                .ToList();
+                .ToListAsync();
         }
+
 
         public PlacesViewModel GetPlaceById(int id)
         {
@@ -84,5 +86,6 @@ namespace Gyumri.Application.Services
             _context.SaveChanges();
             return true;
         }
+
     }
 }

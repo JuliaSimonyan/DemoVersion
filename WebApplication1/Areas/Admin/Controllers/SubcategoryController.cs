@@ -16,11 +16,20 @@ namespace Gyumri.Areas.Admin.Controllers
             _categoryService = categoryService;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var subcategories = _subcategoryService.GetAllSubcategories();
-            return View(subcategories);
+            var subcategories = await _subcategoryService.GetAllSubcategories();
+
+            var subcategoryViewModels = subcategories.Select(s => new SubcategoryViewModel
+            {
+                SubcategoryId = s.SubcategoryId,
+                Name = s.Name,
+                CategoryName = s.CategoryName
+            }).ToList();
+
+            return View(subcategoryViewModels);
         }
+
 
         public IActionResult Add()
         {

@@ -22,16 +22,16 @@ namespace Gyumri.Areas.Admin.Controllers
             _webHostEnvironment = webHostEnvironment;
         }
 
-        public IActionResult Index()
+        [HttpGet]
+        public async Task<IActionResult> Index()
         {
-            var places = _placeService.GetAllPlaces();
+            var places = await _placeService.GetAllPlaces();
+
             return View(places);
         }
-
-        public IActionResult Add()
+        public async Task<IActionResult> Add()
         {
-
-            var subcategories = _subcategoryService.GetAllSubcategories();
+            var subcategories = await _subcategoryService.GetAllSubcategories();
             ViewBag.Subcategories = subcategories;
 
             return View();
@@ -50,6 +50,21 @@ namespace Gyumri.Areas.Admin.Controllers
             bool place = _placeService.AddPlace(model);
             return RedirectToAction("Index");
         }
+
+
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            bool isPlaceDeleted = _placeService.DeletePlace(id);
+            if (isPlaceDeleted)
+            {
+                return RedirectToAction("Index");
+            }
+
+            return NotFound();
+        }
+
+
 
     }
 }

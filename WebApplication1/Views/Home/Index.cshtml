@@ -3,7 +3,10 @@
     var currentCulture = Context.Request.Cookies["UserCulture"] ?? "en";
     Layout = "~/Views/Shared/_Layout.cshtml";
     ViewBag.Title = "Welcome to Gyumri";
+    var places = ViewBag.Places as List<Gyumri.Common.ViewModel.Place.PlacesViewModel>;
+
 }
+@model dynamic
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,95 +31,140 @@
     </div>
 </section>
 <div class="container-fluid py-5">
-    <!-- Section 1 -->
     <div class="mb-1 ms-5">
-        <h2 class="section-title1">5 Reasons to Come to Gyumri</h2>
-        <p class="section-subtitle1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        <div class="scroll-container" id="scrollContainer1">
-            <div class="card">
-                <img src="~/content/Images/reason1.jpeg" alt="Forge of Legends">
-                <div class="card-overlay">
-                    <h5 class="card-title">Forge of Legends</h5>
-                    <p class="card-text">UNESCO’s Blacksmithing Masterpieces</p>
-                </div>
+        @foreach (var category in ViewBag.Categories)
+        {
+            <h2 class="section-title1">
+                <a href="@Url.Action("Category", "Home", new { categoryId = category.CategoryId })">
+                    @category.Name
+                </a>
+            </h2>
 
-            </div>
-            <div class="card">
-                <img src="~/content/Images/reason2.jpeg" alt="Architectural Time Travel">
-                <div class="card-overlay">
-                    <h5 class="card-title">Architectural Time Travel</h5>
-                    <p class="card-text">From Empires to Earthquakes</p>
-                </div>
+            <ul class="subcategory-menu">
+                @foreach (var subcategory in (ViewBag.Subcategories as List<Gyumri.Common.ViewModel.Subcategory.SubcategoryViewModel>)
+               .Where(s => s.CategoryId == category.CategoryId))
+                {
+                    <li>
+                        <a href="@Url.Action("Subcategory", "Home", new { subcategoryId = subcategory.SubcategoryId })">
+                            @subcategory.Name                     <!-- Subcategories action is not added :)-->
 
-            </div>
-            <div class="card">
-                <img src="~/content/Images/reason3.jpeg" alt="Cultural Renaissance">
-                <div class="card-overlay">
-                    <h5 class="card-title">Cultural Renaissance</h5>
-                    <p class="card-text">Where Art, Tech, and Tradition Collide</p>
-                </div>
+                        </a>
+                    </li>
 
+                    <div class="scroll-container" id="scrollContainer1">
+
+                        @foreach (var place in (ViewBag.Places as List<Gyumri.Common.ViewModel.Place.PlacesViewModel>)
+                       .Where(p => p.SubcategoryId == subcategory.SubcategoryId))
+                        {
+
+                            <div class="card">
+                                <img src="~/Images/places/@place.Photo" alt="@place.PlaceName" />
+                                <div class="card-overlay">
+
+                                    <h5 class="card-title"> @place.PlaceName</h5>
+                                    <p class="card-text">@place.Description</p>
+                                </div>
+                            </div>
+
+
+                        }
+                    </div>
+                }
+            </ul>
+        }
+    </div>
+</div>
+
+    </div>
+<!-- Section 1 -->
+<div class="mb-1 ms-5">
+    <h2 class="section-title1">5 Reasons to Come to Gyumri</h2>
+    <p class="section-subtitle1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <div class="scroll-container" id="scrollContainer1">
+        <div class="card">
+            <img src="~/content/Images/reason1.jpeg" alt="Forge of Legends">
+            <div class="card-overlay">
+                <h5 class="card-title">Forge of Legends</h5>
+                <p class="card-text">UNESCO’s Blacksmithing Masterpieces</p>
             </div>
-            <div class="card">
-                <img src="~/content/Images/reason4.jpeg" alt="Gyumri's Heritage">
-                <div class="card-overlay">
-                    <h5 class="card-title">Gyumri's Heritage</h5>
-                    <p class="card-text">Discover the Heart of Armenia</p>
-                </div>
+
+        </div>
+        <div class="card">
+            <img src="~/content/Images/reason2.jpeg" alt="Architectural Time Travel">
+            <div class="card-overlay">
+                <h5 class="card-title">Architectural Time Travel</h5>
+                <p class="card-text">From Empires to Earthquakes</p>
             </div>
-            <div class="card">
-                <img src="~/content/Images/reason5.jpeg" alt="Gyumri's Culture">
-                <div class="card-overlay">
-                    <h5 class="card-title">Gyumri's Culture</h5>
-                    <p class="card-text">Tradition Meets Modernity</p>
-                </div>
+
+        </div>
+        <div class="card">
+            <img src="~/content/Images/reason3.jpeg" alt="Cultural Renaissance">
+            <div class="card-overlay">
+                <h5 class="card-title">Cultural Renaissance</h5>
+                <p class="card-text">Where Art, Tech, and Tradition Collide</p>
+            </div>
+
+        </div>
+        <div class="card">
+            <img src="~/content/Images/reason4.jpeg" alt="Gyumri's Heritage">
+            <div class="card-overlay">
+                <h5 class="card-title">Gyumri's Heritage</h5>
+                <p class="card-text">Discover the Heart of Armenia</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="~/content/Images/reason5.jpeg" alt="Gyumri's Culture">
+            <div class="card-overlay">
+                <h5 class="card-title">Gyumri's Culture</h5>
+                <p class="card-text">Tradition Meets Modernity</p>
             </div>
         </div>
     </div>
+</div>
 
-    <!-- Section 2 -->
-    <div class="ms-5">
-        <h2 class="section-title1">Places</h2>
-        <p class="section-subtitle1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        <a href="#" class="see-more-link">See More<span class="arrow"> &#8702;</span></a>
-        <div class="scroll-container" id="scrollContainer1">
-            <div class="card">
-                <img src="~/content/Images/place1.jpeg" alt="Forge of Legends">
-                <div class="card-overlay">
-                    <h5 class="card-title">Forge of Legends</h5>
-                    <p class="card-text">UNESCO’s Blacksmithing Masterpieces</p>
-                </div>
+<!-- Section 2 -->
+<div class="ms-5">
+    <h2 class="section-title1">Places</h2>
+    <p class="section-subtitle1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <a href="#" class="see-more-link">See More<span class="arrow"> &#8702;</span></a>
+    <div class="scroll-container" id="scrollContainer1">
+        <div class="card">
+            <img src="~/content/Images/place1.jpeg" alt="Forge of Legends">
+            <div class="card-overlay">
+                <h5 class="card-title">Forge of Legends</h5>
+                <p class="card-text">UNESCO’s Blacksmithing Masterpieces</p>
             </div>
-            <div class="card">
-                <img src="~/content/Images/place2.jpeg" alt="Architectural Time Travel">
-                <div class="card-overlay">
-                    <h5 class="card-title">Architectural Time Travel</h5>
-                    <p class="card-text">From Empires to Earthquakes</p>
-                </div>
+        </div>
+        <div class="card">
+            <img src="~/content/Images/place2.jpeg" alt="Architectural Time Travel">
+            <div class="card-overlay">
+                <h5 class="card-title">Architectural Time Travel</h5>
+                <p class="card-text">From Empires to Earthquakes</p>
             </div>
-            <div class="card">
-                <img src="~/content/Images/place3.jpeg" alt="Cultural Renaissance">
-                <div class="card-overlay">
-                    <h5 class="card-title">Cultural Renaissance</h5>
-                    <p class="card-text">Where Art, Tech, and Tradition Collide</p>
-                </div>
+        </div>
+        <div class="card">
+            <img src="~/content/Images/place3.jpeg" alt="Cultural Renaissance">
+            <div class="card-overlay">
+                <h5 class="card-title">Cultural Renaissance</h5>
+                <p class="card-text">Where Art, Tech, and Tradition Collide</p>
             </div>
-            <div class="card">
-                <img src="~/content/Images/place4.jpeg" alt="Gyumri's Heritage">
-                <div class="card-overlay">
-                    <h5 class="card-title">Gyumri's Heritage</h5>
-                    <p class="card-text">Discover the Heart of Armenia</p>
-                </div>
+        </div>
+        <div class="card">
+            <img src="~/content/Images/place4.jpeg" alt="Gyumri's Heritage">
+            <div class="card-overlay">
+                <h5 class="card-title">Gyumri's Heritage</h5>
+                <p class="card-text">Discover the Heart of Armenia</p>
             </div>
-            <div class="card">
-                <img src="~/content/Images/place5.jpeg" alt="Gyumri's Culture">
-                <div class="card-overlay">
-                    <h5 class="card-title">Gyumri's Culture</h5>
-                    <p class="card-text">Tradition Meets Modernity</p>
-                </div>
+        </div>
+        <div class="card">
+            <img src="~/content/Images/place5.jpeg" alt="Gyumri's Culture">
+            <div class="card-overlay">
+                <h5 class="card-title">Gyumri's Culture</h5>
+                <p class="card-text">Tradition Meets Modernity</p>
             </div>
         </div>
     </div>
+</div>
 </div>
 
 <div class="container-fluid px-0">
@@ -202,7 +250,7 @@
         {
             <option value="en">English</option>
         }
-        @if(currentCulture == "hy-AM")
+        @if (currentCulture == "hy-AM")
         {
             <option value="hy-AM" selected>Հայերեն</option>
         }
@@ -210,7 +258,7 @@
         {
             <option value="hy-AM">Հայերեն</option>
         }
-        @if(currentCulture == "ru-RU")
+        @if (currentCulture == "ru-RU")
         {
             <option value="ru-RU" selected>Русский</option>
         }
@@ -218,7 +266,7 @@
         {
             <option value="ru-RU">Русский</option>
         }
-        
+
     </select>
 </form>
 <h1>

@@ -25,9 +25,16 @@
         <label asp-for="SubcategoryId" class="control-label"></label>
         <select asp-for="SubcategoryId" class="form-control" required>
             <option value="">Select Subcategory</option>
-            @foreach (var subcategory in ViewBag.Subcategories as List<Gyumri.Common.ViewModel.Subcategory.SubcategoryViewModel>)
+            @if (ViewBag.Subcategories != null)
             {
-                <option value="@subcategory.SubcategoryId">@subcategory.Name</option>
+                foreach (var subcategory in ViewBag.Subcategories as List<Gyumri.Common.ViewModel.Subcategory.SubcategoryViewModel>)
+                {
+                    <option value="@subcategory.SubcategoryId">@subcategory.Name</option>
+                }
+            }
+            else
+            {
+                <option disabled>No Subcategories Available</option>
             }
         </select>
         <span asp-validation-for="SubcategoryId" class="text-danger"></span>

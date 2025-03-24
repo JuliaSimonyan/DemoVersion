@@ -59,9 +59,9 @@ namespace Gyumri.Application.Services
             return true;
         }
 
-        public List<SubcategoryViewModel> GetAllSubcategories()
+        public async Task<List<SubcategoryViewModel>> GetAllSubcategories()
         {
-            return _context.Subcategories
+            return await _context.Subcategories
                 .Include(s => s.Category)
                 .Select(s => new SubcategoryViewModel
                 {
@@ -70,8 +70,9 @@ namespace Gyumri.Application.Services
                     CategoryId = s.CategoryId,
                     CategoryName = s.Category.Name
                 })
-                .ToList();
+                .ToListAsync();
         }
+
 
         public async Task<SubcategoryViewModel> GetSubcategoryById(int subcategoryId)
         {

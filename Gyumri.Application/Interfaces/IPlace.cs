@@ -5,7 +5,7 @@ namespace Gyumri.Application.Interfaces
 {
     public interface IPlace
     {
-        IEnumerable<PlacesViewModel> GetAllPlaces();
+        Task<List<PlacesViewModel>> GetAllPlaces();
         PlacesViewModel GetPlaceById(int id);
         bool AddPlace(AddEditPlaceViewModel model);
         bool EditPlace(AddEditPlaceViewModel model);

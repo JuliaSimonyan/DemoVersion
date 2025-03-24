@@ -17,16 +17,21 @@ namespace Gyumri.Controllers
         private readonly ApplicationContext _context;
         private readonly ICategory _categoryService;
         private readonly ISubcategory _subcategoryService;
-        public HomeController(ICategory categoryService, ApplicationContext context, ISubcategory subcategoryService)
+        private readonly IPlace _placeService;
+        public HomeController(ICategory categoryService, ApplicationContext context, ISubcategory subcategoryService, IPlace placeService)
         {
             _categoryService = categoryService;
             _context = context;
             _subcategoryService = subcategoryService;
+            _placeService = placeService;
         }
 
         [HttpGet]
         public async Task<IActionResult> Index()
         {
+            ViewBag.Categories = await _categoryService.GetAllCategories();
+            ViewBag.Subcategories = await _subcategoryService.GetAllSubcategories();
+            ViewBag.Places = await _placeService.GetAllPlaces();
             var language = Request.Cookies[CultureCookieName] ?? "en"; // Default 'en'
             var cultureInfo = new System.Globalization.CultureInfo(language);
             System.Threading.Thread.CurrentThread.CurrentCulture = cultureInfo;
