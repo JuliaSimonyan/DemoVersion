@@ -6,13 +6,24 @@ EXPOSE 80
 # Build Stage
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY ["YOUR_PROJECT.csproj", "./"]
-RUN dotnet restore "Gyumri.sln"
-COPY . .
-RUN dotnet publish "Gyumri.sln" -c Release -o /app/publish
 
-# Final Stage
+# Copy the solution file and restore any dependencies (via NuGet)
+COPY ["Gyumri.sln", "./"]
+COPY ["WebApplication/WebApplication.csproj", "WebApplication/"]
+COPY ["Gyumri.Application/Gyumri.Application.csproj", "Gyumri.Application/"]
+COPY ["Gyumri.Data/Gyumri.Data.csproj", "Gyumri.Data/"]
+COPY ["Gyumri.Common/Gyumri.Common.csproj", "Gyumri.Common/"]
+
+RUN dotnet restore "Gyumri.sln"
+
+# Copy all other source code to the container
+COPY . .
+
+# Publish the application to the /app/publish directory
+RUN dotnet publish "WebApplication/WebApplication.csproj" -c Release -o /app/publish
+
+# Final Stage: Copy the build artifacts to the runtime image
 FROM base AS final
 WORKDIR /app
 COPY --from=build /app/publish .
-ENTRYPOINT ["dotnet", "Gyumri.dll"]
+ENTRYPOINT ["dotnet", "WebApplication.dll"]
