@@ -4,9 +4,9 @@ EXPOSE 80
 
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY ["../Gyumri.sln", "./"] 
+COPY ["Gyumri.sln", "./"]
 COPY ["Gyumri.csproj", "WebApplication1/"]
-RUN dotnet restore "../Gyumri.sln"
+RUN dotnet restore "./Gyumri.sln"
 COPY . .
 RUN dotnet publish "Gyumri.csproj" -c Release -o /app/publish
 
