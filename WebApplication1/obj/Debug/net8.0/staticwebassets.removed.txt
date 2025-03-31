@@ -1,2 +1,0 @@
-C:\Users\User\Desktop\UNDP\Gyumi_Project\WebApplication1\wwwroot\Content\css\n.css
-C:\Users\User\Desktop\UNDP\Gyumi_Project\WebApplication1\wwwroot\Content\css\newresponsive.css

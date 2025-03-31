@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\WebApplication1\\Program.cs*",
               "RelativeToolTip": "WebApplication1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T13:06:22.485Z",
               "EditorCaption": ""
@@ -106,9 +106,10 @@
               "RelativeDocumentMoniker": "Gyumri.Data\\Models\\Place.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\Gyumri.Data\\Models\\Place.cs",
               "RelativeToolTip": "Gyumri.Data\\Models\\Place.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAzAAAA",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T19:20:56.534Z"
+              "WhenOpened": "2025-03-22T19:20:56.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,9 +119,10 @@
               "RelativeDocumentMoniker": "Gyumri.Data\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\Gyumri.Data\\Models\\Category.cs",
               "RelativeToolTip": "Gyumri.Data\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T19:20:08.579Z"
+              "WhenOpened": "2025-03-22T19:20:08.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,9 +132,10 @@
               "RelativeDocumentMoniker": "Gyumri.Application\\Interfaces\\ISubcategory.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\Gyumri.Application\\Interfaces\\ISubcategory.cs",
               "RelativeToolTip": "Gyumri.Application\\Interfaces\\ISubcategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T09:53:07.963Z"
+              "WhenOpened": "2025-03-22T09:53:07.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -144,7 +147,8 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T09:27:50.004Z"
+              "WhenOpened": "2025-03-22T09:27:50.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -154,9 +158,10 @@
               "RelativeDocumentMoniker": "Gyumri.Data\\Models\\Subcategory.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\Gyumri.Data\\Models\\Subcategory.cs",
               "RelativeToolTip": "Gyumri.Data\\Models\\Subcategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T09:53:49.27Z"
+              "WhenOpened": "2025-03-22T09:53:49.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -166,9 +171,10 @@
               "RelativeDocumentMoniker": "Gyumri.Data\\Models\\User.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\Gyumri.Data\\Models\\User.cs",
               "RelativeToolTip": "Gyumri.Data\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T19:23:03.878Z"
+              "WhenOpened": "2025-03-22T19:23:03.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -178,9 +184,10 @@
               "RelativeDocumentMoniker": "Gyumri.Application\\Services\\SubcategoryService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\Gyumri.Application\\Services\\SubcategoryService.cs",
               "RelativeToolTip": "Gyumri.Application\\Services\\SubcategoryService.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAswFsAAABJAAAA",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T19:13:02.616Z"
+              "WhenOpened": "2025-03-22T19:13:02.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -190,9 +197,10 @@
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T08:53:25.132Z"
+              "WhenOpened": "2025-03-22T08:53:25.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -202,9 +210,10 @@
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T08:53:20.679Z"
+              "WhenOpened": "2025-03-22T08:53:20.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -214,9 +223,10 @@
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Category.cshtml",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\WebApplication1\\Views\\Home\\Category.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Category.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-22T07:01:31.496Z"
+              "WhenOpened": "2025-03-22T07:01:31.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -226,9 +236,10 @@
               "RelativeDocumentMoniker": "WebApplication1\\Usings.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\UNDP\\Gyumi_Project\\WebApplication1\\Usings.cs",
               "RelativeToolTip": "WebApplication1\\Usings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T12:53:15.305Z"
+              "WhenOpened": "2025-03-21T12:53:15.305Z",
+              "EditorCaption": ""
             }
           ]
         }

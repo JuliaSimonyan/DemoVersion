@@ -13,7 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 //});
 builder.Services.AddLocalization(options => options.ResourcesPath = "Resources");
 
-builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ShopConnection")));
+builder.Services.AddDbContext<ApplicationContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("ShopConnection")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

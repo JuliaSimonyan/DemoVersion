@@ -1438,3 +1438,5 @@ C:\Users\User\Desktop\UNDP\Gyumi_Project\WebApplication1\obj\Debug\net8.0\refint
 C:\Users\User\Desktop\UNDP\Gyumi_Project\WebApplication1\obj\Debug\net8.0\Gyumri.pdb
 C:\Users\User\Desktop\UNDP\Gyumi_Project\WebApplication1\obj\Debug\net8.0\Gyumri.genruntimeconfig.cache
 C:\Users\User\Desktop\UNDP\Gyumi_Project\WebApplication1\obj\Debug\net8.0\ref\Gyumri.dll
+C:\Users\User\Desktop\UNDP\Gyumi_Project\WebApplication1\bin\Debug\net8.0\Npgsql.dll
+C:\Users\User\Desktop\UNDP\Gyumi_Project\WebApplication1\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
