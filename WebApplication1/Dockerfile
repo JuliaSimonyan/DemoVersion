@@ -10,9 +10,6 @@ WORKDIR /src
 # Copy the solution file and restore any dependencies (via NuGet)
 COPY ["Gyumri.sln", "./"]
 COPY ["WebApplication/WebApplication.csproj", "WebApplication/"]
-COPY ["Gyumri.Application/Gyumri.Application.csproj", "Gyumri.Application/"]
-COPY ["Gyumri.Data/Gyumri.Data.csproj", "Gyumri.Data/"]
-COPY ["Gyumri.Common/Gyumri.Common.csproj", "Gyumri.Common/"]
 
 RUN dotnet restore "Gyumri.sln"
 
