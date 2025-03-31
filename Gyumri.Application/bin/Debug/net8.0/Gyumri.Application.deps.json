@@ -1858,7 +1858,10 @@
           "Microsoft.AspNetCore.Mvc.Localization": "2.3.0"
         },
         "runtime": {
-          "Gyumri.Common.dll": {}
+          "Gyumri.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Gyumri.Data/1.0.0": {
@@ -1870,7 +1873,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
         },
         "runtime": {
-          "Gyumri.Data.dll": {}
+          "Gyumri.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

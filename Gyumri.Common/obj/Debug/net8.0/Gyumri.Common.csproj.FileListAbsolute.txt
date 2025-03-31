@@ -60,3 +60,16 @@ C:\Users\Computer\Desktop\ADmin panel\Demo\Gyumi_Project\Gyumri.Common\obj\Debug
 C:\Users\Computer\Desktop\ADmin panel\Demo\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\refint\Gyumri.Common.dll
 C:\Users\Computer\Desktop\ADmin panel\Demo\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.pdb
 C:\Users\Computer\Desktop\ADmin panel\Demo\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\ref\Gyumri.Common.dll
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\bin\Debug\net8.0\Gyumri.Common.deps.json
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\bin\Debug\net8.0\Gyumri.Common.dll
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\bin\Debug\net8.0\Gyumri.Common.pdb
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.sourcelink.json
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.dll
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\refint\Gyumri.Common.dll
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\Gyumri.Common.pdb
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Common\obj\Debug\net8.0\ref\Gyumri.Common.dll

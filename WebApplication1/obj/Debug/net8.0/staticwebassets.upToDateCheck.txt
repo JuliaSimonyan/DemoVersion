@@ -1,7 +1,5 @@
 wwwroot\Content\css\eat.css
 wwwroot\Content\css\lifeandwork.css
-wwwroot\Content\css\n.css
-wwwroot\Content\css\newresponsive.css
 wwwroot\Content\css\relax.css
 wwwroot\Content\css\responsive.css
 wwwroot\Content\css\see.css
@@ -71,6 +69,7 @@ wwwroot\css\responsive.css
 wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\favicon.ico
+wwwroot\Images\places\285cb132-eaac-4e8f-b356-fd5bac1779a8.jpeg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

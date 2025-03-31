@@ -71,3 +71,18 @@ C:\Users\Computer\Desktop\ADmin panel\Demo\Gyumi_Project\Gyumri.Data\obj\Debug\n
 C:\Users\Computer\Desktop\ADmin panel\Demo\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.pdb
 C:\Users\Computer\Desktop\ADmin panel\Demo\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.genruntimeconfig.cache
 C:\Users\Computer\Desktop\ADmin panel\Demo\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\ref\Gyumri.Data.dll
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\bin\Debug\net8.0\Gyumri.Data.deps.json
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\bin\Debug\net8.0\Gyumri.Data.runtimeconfig.json
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\bin\Debug\net8.0\Gyumri.Data.dll
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\bin\Debug\net8.0\Gyumri.Data.pdb
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.sourcelink.json
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.dll
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\refint\Gyumri.Data.dll
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.pdb
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\Gyumri.Data.genruntimeconfig.cache
+C:\Users\User\Desktop\UNDP\Gyumi_Project\Gyumri.Data\obj\Debug\net8.0\ref\Gyumri.Data.dll

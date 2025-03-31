@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gyumri.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+031b94e19d1dbec23b3c769b1a295537be0054bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63c3e3e159b19deefc9feabc8af75f9afeab8e5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gyumri.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gyumri.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

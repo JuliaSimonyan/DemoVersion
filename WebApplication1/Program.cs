@@ -13,8 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 //});
 builder.Services.AddLocalization(options => options.ResourcesPath = "Resources");
 
-string connection = "Server = (localdb)\\mssqllocaldb;Database = userstoredb;Trusted_Connection=true";
-builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(connection));
+builder.Services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("ShopConnection")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
