@@ -13,8 +13,29 @@ var builder = WebApplication.CreateBuilder(args);
 //});
 builder.Services.AddLocalization(options => options.ResourcesPath = "Resources");
 
-builder.Services.AddDbContext<ApplicationContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("ShopConnection")));
+var connectionString = builder.Configuration.GetConnectionString("ShopConnection");
+if (connectionString.Contains("postgresql://"))
+{
+    // Parse Render's DATABASE_URL format:
+    // postgresql://user:password@host:port/database
+    var uri = new Uri(connectionString);
+    var properConnectionString =
+        $"Host={uri.Host};" +
+        $"Database={uri.AbsolutePath.Trim('/')};" +
+        $"Username={uri.UserInfo.Split(':')[0]};" +
+        $"Password={uri.UserInfo.Split(':')[1]};" +
+        $"Port={uri.Port};" +
+        "SSL Mode=Require;Trust Server Certificate=true";
 
+    builder.Services.AddDbContext<ApplicationContext>(options =>
+        options.UseNpgsql(properConnectionString));
+}
+else
+{
+    // Use regular connection string
+    builder.Services.AddDbContext<ApplicationContext>(options =>
+        options.UseNpgsql(connectionString));
+}
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<ICategory, CategoryService>();
