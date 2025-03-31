@@ -8,7 +8,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copy the solution file and restore any dependencies (via NuGet)
-COPY ["Gyumri.sln"]
+COPY ["Gyumri.sln", "./"]
 COPY ["WebApplication/Program.cs", "WebApplication/"]
 
 RUN dotnet restore "Gyumri.sln"
